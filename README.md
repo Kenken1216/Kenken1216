@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kenny
 - 👀 I’m interested in getting into the working field after graduation (May 2025) 
 - 🌱 I’m currently finishing up my computer engineering degree 
-- 💞️ I’m looking to collaborate on 
+- 💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center
 - 📫 How to reach me: lekenny1216@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: French fries are one of my favorite foods. 
 
 <!---
 Kenken1216/Kenken1216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
