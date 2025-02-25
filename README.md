@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 My name is Kenny<br> 👀 I’m interested in getting into the working field after graduation (May 2025)<br>🌱 I’m currently finishing up my Computer Engineering degree at FSU<br>💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center for my senior design class<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: French fries are one of my favorite foods.<br>📫 How to reach me: lekenny1216@gmail.com
 
-Let me see your NEE NEE!
+
 
 
 ## 🌐 Socials:
