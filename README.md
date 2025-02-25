@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 My name is Kenny<br> 👀 I’m interested in getting into the working field after graduation (May 2025)<br>🌱 I’m currently finishing up my Computer Engineering degree at FSU<br>💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center for my senior design class<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: French fries are one of my favorite foods.<br>📫 How to reach me: lekenny1216@gmail.com
 
+Let me see your NEE NEE!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S3AZUQXg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-le-19aaab347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lekenny1216@gmail.com) 
