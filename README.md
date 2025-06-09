@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Kenny<br> 👀 I’m interested in getting into the working field after graduation (May 2025)<br>🌱 I’m currently finishing up my Computer Engineering degree at FSU<br>💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center<br>📫 How to reach me: lekenny1216@gmail.com
+👋 My name is Kenny<br> 👀 I’m interested in getting into the working field<br>💞️ Currently working on building a Submersible Vechile Kit for Naval Surface Warfare Center<br>📫 How to reach me: lekenny1216@gmail.com
 
 
 
